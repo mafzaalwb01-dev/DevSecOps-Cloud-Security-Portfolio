@@ -1,0 +1,68 @@
+                                               DAY  2 OF LINUX FOR CLOUD ENGNNERING 
+
+                                                            BASIC COMMENDS OF SYSTEM
+
+HEAD LINE :
+                        Hello my name is Muhammad Afzaal Khan and This is  my Day 2 of leraing Linux  
+And this file which write by self and when i watching a tutoriail so i write here ever commend by  own language on simple after this   first i do  practice then I give to chatgbt they will write in good format and i copy that after this i on upload on GITHUB & LINKDIN   .
+
+1 who/whoami   <this is who and whoami difference between who and whoami difference between who  is used for active user about system like who avlabile on system and whoami simple whoami >
+2 which    < find loction any commends>
+3 uname  < find info about usystem  like i am runig kali so kali i ruing mac so ubunto or etc somthing like that .>
+4 uptime  <if u want to check time on  computer on linux so u have to use this .>
+5 id < find user id more info about group .>
+6 sudo  < sudo are highly concept but and simple wolrd request or fullforce somework do .>
+7 shutdown  <if u want to  shutdown of linux .>
+8 reboot  < if u want restert system i mean linux so use  this commends .>
+9 apt <apt are  used updata or install something  in Linux .>
+10 apt-get<same like apt but on insatll direct forma internet .>
+11  ctrl R  < simple mean is that  if u run commeds was u dont wann write agin commend so just write  2 ,3 words.>
+12 sudo apt remove name <if u want remove somthing for Example software ,tool etc .>
+13 yum,portage,dnf,pacman, patha nahe ya kya han 
+
+                                          USER MANGM&NT & GROUP MANGEMNET COMMENDS
+ 
+1 useradd  -m name  <if u want add user so wirte this and user name.>
+2 passwod name < if u want to add password on user .>
+3 su (for swithc user9 vee)  < this is used for swicth user .>
+4  sudo groupadd n---e  < this is used for add group of user so use  this like add name of group.>
+5 if u want search  where is locted so use THIS
+cat /etc/gpasswd   its for gourp search if u want to search user so allso same like THIS
+cat /etc/passwd  < its highly doo for how many used or id number etc samething like that .>
+6 if u want add user in group so u will use sudo gpasswd -a  ....name of user and last ma group name .>
+7  this is user for serachi if u want to serach so use hitory or etc any thing so user CTRL R.
+8 and last ma if u want  to add  multipule user add in group so use this  same to same like a  6 but (-a )
+u use (-m).
+9 and last one thing is more same to same like user if u want to delete user  so like this just use groupdel.
+
+                                                                    FILE PERMISSON COMMENDS 
+
+1  This is very high ly concept but i want to tell just in  simple world ls -l  drwxrwxr-x if u want to change a file permisson so u have to do a  chmod anything but commend is write number after chmod 777 like cloud is dir so chmod 777 cloud .
+2 usmask
+3 chown commend is used for  change user mean is that if my folder name is LIFE i want to change  user i was creat folder or dir  so i want make owner of this  fodler different guy or user so i will write THIS chown USERNAME FILENAME 
+
+BUT they WILL b NOt run Beause u are not father or somethin1 abou 
+so u Will use THIS 
+
+sudo chown ------------------------- etc 
+4 and last ma same to same like user but this is for user  change group chgrp and gname
+ file name 
+ 
+                                                                COMPRESSTION COMMENDS
+
+1 first insatll if u dont have ZIP  sudo zip apt insatall some thing like that and unzip i thing also 
+2 if u want to send some one  files in zip so used zip  nameof uare zip name which u wnat ans last ma fooolder name
+3 tar .cvzf cloud.tar.gz cloud
+4 and this used for extrect file  tar .xvzf  name
+
+                                                                FILE TRANFORM COMMENDS
+
+vim used for used write in serct text in file if u want write in file and this part of  basic commends but TRIAN WITH SAHRMA Etc  now so .
+file transform  
+ 
+1 if u want to file uplaod on server so what u will do u will do locol to server
+so u have to use this commends v do on locol cp name.txt name.txt but on server v will do 
+scp  and server link like AWZ SECTION SHH SO COPY THAT COMMENDS THEY WILL B DO ON  upload jsut writ scp stant for server copy and like      scp -----link
+
+2  and last commends rsync etc u have to install
+

@@ -1,0 +1,34 @@
+                            DAY 3 OF LERING LINUX FOR CLOUD ENGNNERING
+
+1. ping   is used for find issue of servere and etc more if they are not runing u will .
+2. Netstat  Network interface card .
+3. ifconfig
+4. Traceroute vs tracepath  ( if u want to check DNS path so use . 
+5. mtr if u want 2 commends run in one commenfs ping and traceroute and tracpaht
+6. nslookup
+7. Telnet
+8. Hostname 
+9. ip <ip addrees show.>
+10. iwconfig 
+11. ss 
+12. arp 
+13. dig 
+14. nc(netcat) 
+15. whois
+16. ifplugstatus
+
+
+1. route 
+2. nmap 
+3. Wget 
+4. Watch 
+5. iptables 
+6. traceroute 
+7. curl vs wget
+8 jq
+
+PRO COMMENDS
+
+1 AWK 
+2 SED
+3 GREP

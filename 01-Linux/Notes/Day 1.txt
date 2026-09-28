@@ -1,0 +1,85 @@
+data
+mkdir 
+ls
+pwd
+top
+df -h
+free -h
+touch 
+clear 
+whoami
+cd
+mv
+cp
+cat
+cd ..
+ls -l
+rm
+rm -r
+rm -rf
+rmdir
+echo ""   >   filename.txt
+tail   file name .txt
+head.txt
+z cat
+tail -f  name.txt
+less
+more
+wc 
+sort
+tee echo wale
+cut
+diff
+cp -r
+ln -s path or loc and last ma name
+ln path or loc and last ma name
+
+cut -b  2  name they will give me 4 byte later
+vi linux editer
+1) Ls 
+2) cd 
+3) PWD 
+4) mkdir, 
+5) Delete Directory files rm,rmdir
+6) cat, zcat
+7) Touch 
+8) Head 
+9) Tail,tali -f 
+10) less, more 
+11) cp 
+12) mv 
+13) wc 
+14)  vi editor in Unix and Linux operating system?
+15 ) ln (hard kink, soft link) 
+16) cut 
+17) tee 
+18) sort 
+19) clear 
+20) diff 
+21) ssh
+22) df
+23) du
+24) ps
+25) top
+26) fuser
+27) kill
+28) nohup
+29) free
+30)vmstat
+https://youtu.be/cF-tpknh-64?si=cmPG3FyXa6Ri_wvW
+
+shh ha lakin muje as ka samje nahe ar ha q k ma na awz acoutnnahe bani y ama kali per kre ha hu
+df
+
+ls-a
+du .
+ps
+top
+f user not uage too mcuh ?
+kill
+free -h	
+nohub
+nohub free -h
+cat nohup.out
+nohup -df -h
+vmstat
