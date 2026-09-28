@@ -1,42 +1,55 @@
-# Networking Fundamentals
+# Computer Networking for DevOps
 
 I have completed the Networking Foundation step of my DevSecOps & Cloud Security roadmap.
 
-I learned these networking basics through TrainWithShubham and practiced the commands on my own system. This file is my personal learning record, and I’ll keep updating it as I practice more.
+I learned these networking topics through the Computer Networking for DevOps workshop by TrainWithShubham. I also practiced networking-related commands on Kali Linux as part of my Linux learning.
 
 ## What I Learned
 
-I covered basic networking commands and their uses, including:
+### 1. Introduction to Networking Fundamentals
+- Networking fundamentals and how devices communicate
+- Basic concepts used in computer networks
 
-- `ping` — checking connectivity to a host
-- `ifconfig` and `ip` — viewing network interfaces and IP configuration
-- `hostname` — checking the system hostname
-- `traceroute`, `tracepath`, and `mtr` — checking the route to a destination
-- `nslookup` and `dig` — checking DNS resolution
-- `netstat` and `ss` — viewing network connections and listening ports
-- `arp` — viewing local IP-to-MAC mappings
-- `iwconfig` — checking wireless interface information
-- `netcat` and `telnet` — basic connection testing
-- `whois` — looking up domain registration information
-- `route` — viewing routing information
-- `nmap` — learning about host and port discovery in authorized labs
-- `curl` and `wget` — working with URLs and downloading content
-- `watch` — repeating commands to monitor output
-- `jq` — working with JSON data
-- `grep`, `awk`, and `sed` — searching and processing text
-- `iptables` — learning about firewall rules
+### 2. OSI Model and TCP/IP Protocol Suite
+- OSI model
+- TCP/IP protocol suite
+- How networking is organized into layers
 
-## Practice
+### 3. IP Addressing and Subnetting
+- IP addressing
+- Subnetting fundamentals
 
-I used my own Kali Linux environment to get familiar with networking commands and their output. I’m continuing to practice and improve my understanding of how devices communicate, how DNS works, and how to troubleshoot basic network issues.
+### 4. Networking Tools and Commands
+I practiced networking tools and commands in my Linux environment, including commands for checking connectivity, interfaces, routes, DNS, and network connections.
 
-## Why I’m Learning Networking
+Some commands I practiced:
+- `ping`
+- `ip` and `ifconfig`
+- `traceroute` and `tracepath`
+- `nslookup` and `dig`
+- `ss` and `netstat`
+- `ip route`
+- `curl` and `wget`
 
-Networking is an important foundation for my goal of learning Cloud Engineering and DevSecOps. It helps me understand how servers communicate, how services are reached, and where to start when troubleshooting connectivity problems.
+### 5. Network Security Essentials
+- Basic network security concepts
+- Firewalls and traffic filtering
+
+### 6. Advanced Networking: Load Balancing and DNS
+- DNS concepts
+- Introduction to load balancing
+
+### 7. Q&A and Hands-On Practice
+- Followed the workshop and practiced networking concepts
+- Used my Kali Linux environment to work with networking commands
 
 ## Learning Source
 
-- TrainWithShubham
+- TrainWithShubham — Computer Networking for DevOps workshop
+
+## Why I’m Learning Networking
+
+Networking is an important foundation for Cloud Engineering and DevSecOps. It helps me understand how systems communicate, how IP addressing and DNS work, and how network security fits into cloud infrastructure.
 
 ## Roadmap Progress
 
@@ -44,6 +57,6 @@ Networking is an important foundation for my goal of learning Cloud Engineering 
 - [x] Step 2 — Networking Foundation
 - [ ] Step 3 — Bash Automation
 
-## Note
+## Practice Note
 
-This is my learning documentation. I’ll add more practice notes and terminal screenshots as I continue. I only test scanning and connectivity tools on my own systems or in environments where I have permission.
+I will keep adding my own notes and terminal screenshots as I revise and practice these topics. I use network tools only on my own systems, lab environments, or systems where I have permission.
