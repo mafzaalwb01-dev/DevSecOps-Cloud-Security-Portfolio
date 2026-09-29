@@ -1,0 +1,16 @@
+Day 2 — Networking Practice with AWS
+
+Today I explored how to use AWS Free Tier and learned the basics of setting up networking in AWS.
+
+What I learned:
+- AWS Free Tier basics
+- AWS networking settings and VPC basics
+- Security Groups and how they control network traffic
+- Basic connectivity troubleshooting
+- Commands like ping, traceroute, and route for checking network connectivity and paths
+
+I’m still learning and practicing these concepts step by step. My next goal is to get more hands-on experience with AWS networking and understand how cloud servers communicate.
+
+Learning source: AWS learning resources and my networking practice.
+
+Roadmap: Step 2 — Networking Foundation
